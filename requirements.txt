@@ -1,0 +1,14 @@
+pip
+streamlit
+joblib
+torch
+transformers
+scikit-learn
+pandas
+PyMuPDF
+plotly
+
+
+
+
+
