@@ -113,7 +113,6 @@ if st.session_state['page'] == "Document Classification":
         results = []
         for i,uploaded_file in enumerate(uploaded_files):
             text = extract_text_from_pdf(uploaded_file)
-            true_label = true_labels.get(uploaded_file.name, "others")
 
             if embedding_choice == 'BERT':
                 features = get_bert_embeddings(text)
@@ -126,7 +125,6 @@ if st.session_state['page'] == "Document Classification":
             
             results.append({
                 'File Name': uploaded_file.name,
-                'True Label': true_label,
                 'Predicted Label': prediction[0],
                 'Confidence Score': confidence_score
             })
@@ -184,7 +182,6 @@ elif st.session_state['page'] == "About the Project":
     """)
 
     st.image("flowchart.png", caption="Project Overview", use_column_width=True)
-
 
 
 
