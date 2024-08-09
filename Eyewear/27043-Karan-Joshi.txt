@@ -1,0 +1,21 @@
+INVOICE
+
+FROM BLL TO
+‘Gangar Eyenation Karan Joshi
+
+No. 50, MG Road, Near 34, Lotus Lane, Pune,
+“rity Cirle, Bangalore - Maharashtra, India
+
+INVOICE TOTAL
+
+% 15,331.74
+
+‘560001
+DESCRIPTION UNIT PRICE ary AMOUNT
+Ray-Ban Wayfarer Sunglasses 2,198.00 3 6597.00
+Fastrack Avior Metal Frame Sunglasses 1,599.00 4 6,396.00
+SUBTOTAL 12,993.00,
+
+est 18.0% 2asere
+
+TOTAL 315,331.74

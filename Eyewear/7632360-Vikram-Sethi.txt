@@ -1,0 +1,15 @@
+INVOICE # 17632360 INVOICE DATE 01062028
+Poe 710
+BILLTO ‘Vasan Eye Care
+Vikram Sethi 44, 3rd Floor, JNC Road,
+23, Hibiscus Boulevard, Chonnal, ‘Koramangala Sth Block, Bangalore
+Tamil Nadu, India 560095,
+ary UNIT PRICE ‘AMOUNT
+2 Nova Progressive Eyeglasses 3,199.00 6,398.00
+2 Fitovers Polarized Wrap-Around Sunglasses 2,798.00 5,598.00
+Subtotal 11,986.00
+st 180% 2.15928
+
+INVOICE TOTAL
+
+® 14,155.28

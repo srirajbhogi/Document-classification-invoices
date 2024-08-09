@@ -1,0 +1,26 @@
+INVOICE
+
+FROM BILL TO
+‘Gangar Eyenation Vikas Jain
+
+No. 50, MG Road, Near 72, Daisy Square,
+“rity Circle, Bangalore - Ahmedabad, Gujarat,
+
+INVOICE TOTAL
+
+% 19,110.10
+
+‘560001 Inia
+
+DESCRIPTION ary AMOUNT
+
+John Jacobs Clubmaster Sunglasses 2,098.00 2 4,198.00
+
+Polarized Sports Sunglasses for Men & 3,999.00 3 11,997.00
+Wome
+
+SUBTOTAL 16,195.00,
+
+est 18.0% 2915.10
+
+TOTAL 19,110.10

@@ -1,0 +1,15 @@
+INVOICE # 17692358 INVOICE DATE ‘oxoer2023
+Poe 7303
+BILLTO ‘Vasan Eye Care
+‘Aakash Mebia 44, 3rd Floor, JNC Road,
+28, Sunflower Steet, Mumbsi ‘Koramangala Sth Block, Bangalore
+Maharashira India 560095,
+ary UNIT PRICE ‘AMOUNT
+3 Fastrack Aviator Metal Frame Sunglasses 1498.00 4497.00
+2 Oakley Fak 20 XL Sunglasses 4,099.00 8,198.00
+Subtotal 12,695.00
+st 180% 2,285.10
+
+INVOICE TOTAL
+
+® 14,980.10

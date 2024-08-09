@@ -1,0 +1,21 @@
+INVOICE
+
+Vision Express Rakesh Sharma
+
+‘st Floor, Phoenix Marketciy,
+
+‘Whitefield Main Road, Bangalore - Bengal, India
+
+67, Violet Avenue, Kolkata, West
+
+‘560066
+INVOICE VOICE DATE Pow
+135 25/01/2023 0225
+ay DESCRIPTION Wu PRICE AuouNT
+2 Oakley Frogskins Sunglasses 2,998.00 5,998.00
+2 Vogue Eyewear Cat Eye Glasses 3,798.00 7,598.00
+Subtotal 13,596.00
+GST 18.0% 2,487.28
+Total 3 16,043.28
+
+1S tovoiee Homa

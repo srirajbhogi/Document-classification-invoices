@@ -1,0 +1,37 @@
+INVOICE roam
+
+Date sued: 14.05.2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Pooja Mehta
+67, Hibiscus Crescent GSmIN: 2sHWPGcs4a10R1zZ2
+Belgaum Pan: Iwwoka6ooT
+Contact no 9542694189 Email: poojamehta@gmailcom State: Kamatake
+ltem Name HSN/SAC Qty Unit Price IGST Amount
+Tomy Figer OV
+Protected Square
+Sunglasses 008 1232400 18% 2324.00
+Tarrera Unisex Adult
+Rectangular
+Sunglasses 9007 2 2553.00 18% $106.00
+Oakley Men's
+Rectangular
+Sunglasses 9005 3439.00 12% 1484400
+Sub total 2274.00
+iest 18% 400932
+Grand Total 26283.32
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

@@ -1,0 +1,35 @@
+INVOICE romani
+
+Date sued: 14.02.2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+‘Sunil Kumar
+23, Marigold Lane GSTIN:  24GMkMRS38aMIz4
+Bangalore Pan: PEGYUT216J
+Contact no: 9202654884 Email sunikumar@gmail.com State: Kamataka
+ltem Name HSN/SAC Qty Unit Price IGST Amount
+Faatrack UV
+Protected Avistor
+Sunglasses 008 3 so1.00 18% 2403.00
+Lenskart Air Wrap-
+‘Around Sunglasses 008 3203400 18% 6102.00
+Fitovers Polarized
+Sunglasses 9005 2380.00 18% 170000
+Sub total 30205,00
+iest 18% 183690
+Grand Total 12041.90
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

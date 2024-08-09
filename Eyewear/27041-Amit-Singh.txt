@@ -1,0 +1,21 @@
+INVOICE
+
+FROM BILL TO
+‘Gangar Eyenation ‘Amit Singh
+
+No. 50, MG Road, Near 55, Carnation Rat,
+Trinity Circle, Bangalore - Jaipur, Rajasthan nda
+
+INVOICE TOTAL
+
+% 16,987.28
+
+‘560001
+DESCRIPTION UNIT PRICE ary AMOUNT
+Puma Men's Wayfarer Sunglasses 3,098.00 2 6,198.00
+Emporio Armani Unisex-Adult Sunglasses 4,098.00 2 8,198.00
+SUBTOTAL 14,306.00
+
+est 18.0% 259128
+
+TOTAL 316,987.28

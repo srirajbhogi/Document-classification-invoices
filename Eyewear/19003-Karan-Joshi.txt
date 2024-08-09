@@ -1,0 +1,17 @@
+INVOICE
+
+FROM BLL TO INVOICE TOTAL
+Lenskart.com Karan Joshi
+
+98, 27thMain Rd, 1st 34, Lotus Lane, Pune, % 15,099.28
+‘Sector, HSR Layout, Maharashtra, India
+
+Bangalore - 560102
+
+DESCRIPTION UNIT PRICE ary AMOUNT
+Vincent Chase Blue Cut Computer Giassos 3,398.00 2 6,798.00
+Carrera Unisex-Adult Rectangular Sunglasses 2,998.00 2 5,998.00
+SUBTOTAL 12,796.00
+est 18.0% 2.30328
+
+TOTAL 15,099.28

@@ -1,0 +1,35 @@
+INVOICE rome,
+
+Date sued: 08-04-2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Kavita Patel
+£28, Orchid Avenue STN: 24RKBpz7S26V1Z2
+Hubs Pan: IAECM265Nt
+Contact no: 9772887502 Email: kaviapatel@gmaicom State: Kamatakea
+ltem Name __HSN/SAC Qty Unit Price IGST Amount
+Puma Men's
+Wayfarer Sunglasses 9006 3275.00 18% 8325.00
+Persol Rectangular
+Sunglasses 9005 1481.00 18% 4940.00
+Oakley Men's
+Rectangular
+Sunglasses 9005, 2 2886.00 18% $772.00
+Sub total 18937.00
+iest 18% 3408.66,
+Grand Total 2345.66
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

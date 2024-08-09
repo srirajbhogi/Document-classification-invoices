@@ -1,0 +1,20 @@
+INVOICE
+
+‘Specsmakers Opticians Karan Joshi
+
+1075, 12th Main, HAL 2nd Stage,
+
+34, Lotus Lane, Pune,
+
+Indiranagar, Bangalore - 560008 Maharashtra, India
+
+INVOICE INVOICE DATE Po
+1443 3/02/2023 94823
+ay DESCRIPTION Wu PRICE AuouNT
+2 Tommy Hilfiger Wayfarer Sunglasses 2,098.00 4,198.00
+3 __Lenskart Clip-On Sunglasses 1,898.00 5,697.00
+Subtotal 9,895.00
+GST 18.0% 4,781.10
+Total 11,676.10
+ny tvaiee Her
+

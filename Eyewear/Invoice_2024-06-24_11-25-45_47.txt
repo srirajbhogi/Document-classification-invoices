@@ -1,0 +1,36 @@
+INVOICE rome,
+
+Date sued: 30-01-2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+‘run Kapoor
+48, Olve Boulevard GSTIN:  24HAZxP17610126
+Bangalore Pan: YEVTFI177™M
+Contact no: 9606698599 Ema arurkapoor@gmall.com State: Karnataka
+ltem Name __HSN/SAC Qty Unit Price IGST Amount
+Puma Men's
+Wayfarer Sunglasses 9007 3328100 12% 9843.00
+Polarized Wrap
+‘Around Sports
+Sunglasses 008 2 4313.00 12% 8626.00
+Vincent Chase Blue
+Cut Computer
+Glasses 9004 2 az7.00 18% 8434.00
+Sub total 126903,00
+iest 18% 4842.54
+Grand Total 3174554
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

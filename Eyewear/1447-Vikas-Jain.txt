@@ -1,0 +1,19 @@
+INVOICE
+
+‘Specsmakers Opticians Vikas Jain
+
+1075, 12th Main, HAL 2nd Stage,
+
+72, Daisy Square, Ahmedabad,
+
+Indicanagar, Bangalore - 560008 Gujarat, India
+
+INVOICE INVOICE DATE Po
+1447 7/02/2023 94827
+ay DESCRIPTION Wu PRICE AuouNT
+2 Bobster Converible Sunglasses 2,598.00 5,198.00
+3 Fastrack Unisex Round Sunglasses 41,798.00 5,397.00
+Subtotal 10,595.00
+GST 18.0% 1,907.10
+Total 12,502.10
+

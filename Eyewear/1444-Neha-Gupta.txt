@@ -1,0 +1,18 @@
+INVOICE
+
+FROM, BLT
+
+‘Specsmakers Opticians Neha Gupta
+
+1075, 12th Main, HAL 2nd Stage, 23, Hibiscus Street, Bhopal,
+Indicanagar, Bangalore - 560008 Madhya Pradesh, India
+
+INVOICE IVOCE DATE Po
+1444 (04/02/2023 aaa
+ay DESCRIPTION Wu PRICE AuouNT
+2 Jahn Jacobs Polarized Aviator Sunglasses 2,798.00 5,598.00
+3 Police Wrap Around Sports Sunglasses 2,898.00 8,697.00
+Subtotal 14,295.00
+GST 18.0% 2,873.10
+Total 3 16,868.10
+

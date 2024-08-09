@@ -1,0 +1,36 @@
+INVOICE masse
+
+Date sued: 08-04-2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Fina Das
+25, Cypress Boulevard GSTIN: 24KNKAY31996123
+Belgaum Pan: PPOSLBA42K
+Contact no: 9704977199 Ema: rnadas@gmailcom State: Kamataka
+ltem Name __HSN/SAC Qty Unit Price IGST Amount
+Puma Men's
+Wayfarer Sunglasses 9006 1 1353.00 1% 1353.00
+‘Vogue Eyewear
+Women’s Round
+Sunglasses 005 1317100 18% 3171.00
+Toh Jacobs Gold-
+Rimmed Aviator
+Sunglasses 9004 1314.00 18% 3142.00
+Sub total 7666.00
+iest 18% 137988,
+Grand Total 9045.88
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

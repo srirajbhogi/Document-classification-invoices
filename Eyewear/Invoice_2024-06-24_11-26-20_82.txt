@@ -1,0 +1,60 @@
+INVOICE
+
+Invoice From
+‘Specsworld Opticians
+
+45, 4th Main, Jayamahal Extension, Mumbai - 400005
+specsworldopticians@gmailcom
+
+Contact no: 9900292038
+
+Invoice To
+
+Pooja Mehta
+67, Hibiscus Crescent
+
+Belgaum
+
+Contact no 9521638707 Email: poojamehta@gmailcom
+
+Invoice details:
+Invoice no. 105
+Date sued: 23-01-2020
+
+GSTIN:  29AADCS34S6GIZR
+Pan: RFRAG7060G
+State: Maharashtra
+
+GSmIN:  2eTaICoaa72Mize
+Pan: UIZAGB320A
+State: Kamatake
+
+ltem Name __HSN/SAC Qty Unit Price IGST Amount
+Fastrack Gradient
+
+Wayfarer Sunglasses 9004 4413.00 18% 1373900
+Polarized Wrap
+‘Around Sports
+
+Sunglasses 008 3176.00 18% 3176.00
+‘Vogue Eyewear
+Women’s Round
+
+Sunglasses 9007 4580.00, 18% 1374000
+
+Sub total 30155,00
+
+iest 18% 5427.90
+
+Grand Total 3582.90
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

@@ -1,0 +1,36 @@
+INVOICE romani
+
+Date sued: 13.05.2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Sunita Sharma
+31, Marigold Drive GSTIN: 24xOMNW20391175,
+Bangalore Pan: DDRFW2724D
+Contact na: 9237045542 Email: suntasharma@gmailcom State: Kemnataka
+ltem Name __HSN/SAC. Qty Unit Price IGST Amount
+‘Vincent Crave Bae
+Cut Computer
+Glasses 008 2 48as.o0 18% 8890.00
+Tommy Hilger OV
+Protected Square
+Sunglasses 9005 3 1036.00 18% 310800
+Police Men's Round
+Sunglasses 9004 3 1690.00, 18% 5070.00
+Sub total 117068,00
+iest 18% 3072.24
+Grand Total 20140.24
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

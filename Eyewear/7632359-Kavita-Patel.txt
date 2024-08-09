@@ -1,0 +1,15 @@
+INVOICE # 17632359 INVOICE DATE ‘osoer2023
+
+Poe 7309
+BILLTO ‘Vasan Eye Care
+kavia Patel 44, 3rd Floor, JNC Road,
+88, Orchid Avenue, Baroda, Gujarat, ‘Koramangala Sth Block, Bangalore
+India = 560095
+ary UNIT PRICE ‘AMOUNT
+2 Police Aviator Sunglasses 3,098.00 6,198.00
+3 IDEAL Blue Cut Reating Glasses 799.00 2,397.00
+Subtotal 83,595.00
+
+st 180% 1547.10
+
+INVOICE TOTAL ® 10,142.10

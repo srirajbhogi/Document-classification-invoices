@@ -1,0 +1,52 @@
+INVOICE
+
+Invoice From
+‘Specsworld Opticians
+
+45, 4th Main, Jayamahal Extension, Mumbai - 400005
+specsworldopticians@gmailcom
+
+Contact no: 9900292038
+
+Invoice To
+Pallavi Desai
+15, Rosewood Path
+Bangalore
+
+Contact no: 9816035021 Email: pallavdesai@gmailcom
+
+Invoice details:
+Invoice no. 214
+Date sued: 2a-12-2020
+
+GSTIN:  29AADCS34S6GIZR
+Pan: RFRAG7060G
+State: Maharashtra
+
+GSTIN:  24SROGH7888E127
+Pan: WH2zI9219x
+State: Karnataka
+
+ltem Name __ HSN/SAC Qty Unit Price IGST Amount
+Carrera UnECAGETE
+Rectangular
+Sunglasses 9005 4034.00 18% _12102.00
+Ray-Ban Aviator
+Classic Sunglasses 004 3805.00, 18% 7610.00
+Fastrack UV
+Protected Aviator
+Sunglasses 9005 1203.00, 18% 1203.00
+Sub total 120915.00
+iest 18% 376470
+Grand Total 24679.70
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

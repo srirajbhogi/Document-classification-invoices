@@ -1,0 +1,15 @@
+INVOICE # 17692352 INVOICE DATE czoeran2a
+Poe 7302
+BILLTO ‘Vasan Eye Care
+Meera Kapoor 44, 3rd Floor, JNC Road,
+10, Rosowood Lane, Jaipur ‘Koramangala Sth Block, Bangalore
+Rjasthan India 560095,
+ary UNIT PRICE ‘AMOUNT
+2 Gucci Oversized Square Sunglasses 3,098.00 6,198.00
+2 Ray-Ban Wayfarer Sunglasses 3,398.00 6,798.00
+Subtotal 12,986.00
+st 180% 23928
+
+INVOICE TOTAL
+
+® 15,335.28

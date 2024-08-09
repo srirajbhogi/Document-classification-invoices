@@ -1,0 +1,35 @@
+INVOICE tran,
+
+Date sued: 11-04-2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+‘mit Kumar
+17, Maple Drive GSTIN: _24vxPGRBsLOMIZ7
+Bangalore Pan: PAXKIBS66F
+Contacto: 9747589940 Ema: amitkumar@gmai.com State: Kemnataka
+ltem Name __HSN/SAC Qty Unit Price IGST Amount
+Fastrack Gradient
+Wayfarer Sunglasses 9005 2 1492.00 12% 2984.00
+Fastrack UV
+Protected Avistor
+Sunglasses 9005 2 1051.00 18% 2102.00
+Persol Rectangular
+Sunglasses 9005 2 2191.00 18% 4382.00
+Sub total 986,00
+iest 18% 170824
+Grand Total 1172.24
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

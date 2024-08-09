@@ -1,0 +1,36 @@
+INVOICE romain,
+
+Date sued: 2503-2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Neha Desai
+St, Cedar Path GSTIN:  24CDQUEI993KIz8
+Hubs Pan: OKVUT2726v
+Contact no.: 9686490138 Email: nehadesai@gmal.com State: Kamatake
+ltem Name __HSN/SAC. Qty Unit Price IGST Amount
+‘Vincent Crave Bae
+Cut Computer
+Glasses 9007 1125400 18% 1254.00
+Lenskart Air Wrap-
+‘Around Sunglasses 9007 1 1280.00 18% 1280.00
+IDEAL Spectacle
+Frames for Men &
+Women 9005 2 3701.00 18% 7402.00
+Sub total 9936.00
+iest 18% 178848
+Grand Total 11724.48
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

@@ -1,0 +1,36 @@
+INVOICE masa
+
+Date sued: 18.10.2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Miay Sethi
+42, Tuip Lane GSTIN:  2aynazTet72vi25
+Belgaum Pan: MOMHK6888M
+Contact no: 9469174470 Email: viaysethi@gmaicom State: Kamataka
+ltem Name __HSN/SAC Qty Unit Price IGST Amount
+Fitovers Polarized
+Sunglasses 9007 3 1701.00 18% $103.00
+Bobster Eyewear
+Fuel Photachromic
+Goggles 9007 2703.00 12% 1406.00
+Polarized Wrap
+‘Around Sports
+Sunglasses 008 2 1551.00 18% 3102.00
+Sub total 9611.00
+iest 18% 172998
+Grand Total 11340.98
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

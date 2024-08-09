@@ -1,0 +1,21 @@
+INVOICE
+
+FROM BILL TO INVOICE TOTAL
+
+Lenskart.com Rakesh Sharma,
+
+98, 27thMain Rd, 1st 67, Violet Avenue, % 11,320.92
+
+Sector, HSR Layout, Kolkata, West Bengal,
+
+Bangalore - 560102 Inia
+
+DESCRIPTION ary AMOUNT
+
+Polarized Wrap Around Sports Sunglasses 1399.00 4 3,596.00
+
+John Jacobs Gold-Rimmed Aviator Sunglasses 2,998.00 2 5,998.00
+SUBTOTAL 9.59400
+est 18.0% 1726.82
+
+TOTAL 11,320.92

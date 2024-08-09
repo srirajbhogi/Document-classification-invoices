@@ -1,0 +1,17 @@
+INVOICE
+
+FROM, BLT
+Vision Express ‘Amit Singh
+‘st Floor, Phoenix Marketcly, 55, Carnation Road, Jaipur,
+‘Whitefield Main Road, Bangalore - Rajasthan, India
+‘560066
+INVOICE INVOICE DATE Po
+131 2101/2023 0221
+ay DESCRIPTION Wu PRICE AuouNT
+3 Fastrack UV Protected Square Sunglasses 1,598.00 4,797.00
+2 Persol Pilot Sunglasses 3,798.00 7,598.00
+Subtotal 12,395.00
+GST 18.0% 2,231.10
+Total 3 14,626.10
+ny tvaiee Her
+

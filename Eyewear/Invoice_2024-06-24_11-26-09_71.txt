@@ -1,0 +1,35 @@
+INVOICE tomate,
+
+Date sued: 15.02.2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Pooja Mehta
+67, Hibiscus Crescent GsmIN:  2aD/Guo2esewiz9
+Belgaum Pan: STWHNESB5V
+Contact no 8194287516 Email: poojamehta@gmailcom State: Kamataka
+ltem Name __HSN/SAC Qty Unit Price IGST Amount
+Calvin Klein Square
+Sunglasses 008 1 3005.00 12% 3085.00
+Fitovers Polarized
+Sunglasses 008 3165.00 18% 439800
+“Tommy Hilfiger WV
+Protected Square
+Sunglasses 9004 1 1251.00 18% 1251.00
+Sub total 694.00
+iest 18% 156492
+Grand Total 10258.92
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

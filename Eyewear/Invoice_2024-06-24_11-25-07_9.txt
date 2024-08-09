@@ -1,0 +1,46 @@
+INVOICE
+
+Invoice From
+‘Specsworld Opticians
+
+45, 4th Main, Jayamahal Extension, Mumbai - 400005
+specsworldopticians@gmailcom
+
+Contact no: 9900292038
+
+Invoice details:
+Invoice no. 499
+Date sued: e-11-2020
+
+GSTIN:  29AADCS34S6GIZR
+Pan: RFRAG7060G
+State: Maharashtra
+
+Invoice To
+Tanvi Kapoor
+77, Hibiscus Steet GSTIN:  2aDLBaLszasvIz3
+Mangalore Pan: MWFSN5025R
+Contact na: 9284208914 Email: tanvikapaor@gmai.com State: Kamataka
+ltem Name HSN/SAC. Qty Unit Price IGST Amount
+Vogue Eyewear
+Women’s Round
+Sunglasses 005 1 1202.00 18% 1202.00
+Tova sluecut
+Eyeelasses (Zero
+Power) 008 2 3055.00 18% 611000
+‘Carrera Unisex Adult
+Rectangular
+Sunglasses 9005 3665.00 18% 199800
+Sub total 9310.00
+iest 18% 1675.0
+Grand Total 10985.80
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

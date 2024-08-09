@@ -1,0 +1,15 @@
+INVOICE # 7692356 INVOICE DATE ‘osioer2023
+
+Poe 7308
+BILLTO ‘Vasan Eye Care
+Rajesh Verma 44, 3rd Floor, JNC Road,
+12, Pine Crescent, Indore, Madhya ‘Koramangala Sth Block, Bangalore
+Pradesh, India 560095,
+ary UNIT PRICE ‘AMOUNT
+2 ——_Lenskart Polarized Wayfarer Sunglasses 2,598.00 5,198.00
+3 Vincant Chase Full Rim Spectacia Frames 1398.00 4197.00
+Subtotal 9,395.00
+
+st 180% 1691.10
+
+INVOICE TOTAL X 11,086.10

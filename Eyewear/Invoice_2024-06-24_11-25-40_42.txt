@@ -1,0 +1,37 @@
+INVOICE rome,
+
+Date sued: 04-06-2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Anil Sharma
+66, Hibiscus Avenue GSmIN: 2aPUxWu8s29x1z3,
+Blgaum Pan: LACDVS523J
+Contacto: 9244795817 Email: anisharma@gmait.com State: Kamatake
+ltem Name HSN/SAC. Qty Unit Price IGST Amount
+TEAL Spectacle
+Frames for Men &
+Women 9008 2 4603.00 18% 9206.00
+Toh Jacobs Gold
+Rimmed Aviator
+Sunglasses 004 2 4343.00 12% 8686.00
+Nova Bluecut
+Eyeelasses (Zero
+Power! 008 1 3398.00 18% 3998.00
+Sub total 21890.00
+iest 18% 3940.20
+Grand Total 25830.20
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

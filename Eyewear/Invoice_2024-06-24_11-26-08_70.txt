@@ -1,0 +1,36 @@
+INVOICE roam,
+
+Date sued: 06-11-2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Ramesh Verma
+234, Jasmine Boulevard GSTIN:  24FCLOF27A80128
+Mysore Pan: OFFIZ54538
+Contact no: 9290758279 Ema rameshverma@gmaicom State: Kamatakea
+ltem Name __HSN/SAC Qty Unit Price IGST Amount
+Lenskart Air Wrap-
+‘Around Sunglasses 005 3 4197.00 18% _12591.00
+‘Vincent Chase Blue
+Cut Computer
+Glasses 9005 1593.00 18% 593.00
+Fastrack UV
+Protected Aviator
+Sunglasses 9005, 3 1205.00 18% 361800
+Sub total 116802.00
+iest 18% 3024.36,
+Grand Total 19826.36
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

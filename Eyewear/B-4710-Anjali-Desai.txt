@@ -1,0 +1,14 @@
+INVOICE # 710 INVOICE DATE 0107/2028
+
+Poe 2490
+BILLTO ‘Ben Franklin Opticians
+‘Anjali Desai 438, 17 Main, ath T Block,
+7, Magnolia Drive, Surat, Gujarat, sJayanagar, Bangalore - 560041
+Inia
+ary UNIT PRICE ‘AMOUNT
+2 Perso Rectangular Sunglasses 3,599.00 7,198.00
+3 Puma Men's Wayfarer Sunglasses 2,098.00 6297.00
+Subtotal 13,495.00
+st 180% 2,429.10
+
+INVOICE TOTAL ® 15,924.10

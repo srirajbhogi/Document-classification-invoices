@@ -1,0 +1,17 @@
+INVOICE
+
+FROM, BLT
+Vision Express ‘Anjali Desai
+4st Floor, Phoenix Marketcly, 7, Magnolia Drive, Surat, Gujarat,
+Whitefield Main Road, Bangalore - India
+‘560066
+INVOICE IWVOCE DATE Po
+140 30/01/2023 0230
+ay DESCRIPTION Wu PRICE AuouNT
+3 Fastrack Polarized Aviator Sunglasses 2,298.00 6,897.00
+2 Oakley Holbrook Square Sunglasses 4,098.00 8,198.00
+Subtotal 15,095.00
+GST 18.0% 2717.10
+Total 17,812.10
+ny tvaiee Her
+

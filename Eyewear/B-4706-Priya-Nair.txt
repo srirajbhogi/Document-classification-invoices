@@ -1,0 +1,15 @@
+INVOICE # 14706 INVOICE DATE ‘oso7/2023
+Poe saa
+BILLTO ‘Ben Franklin Opticians
+Priya Nair 438, 17 Main, ath T Block,
+4, Orchid Gree, Kochi, Kerala, sJayanagar, Bangalore - 560041
+India
+QTY DESCRIPTION UNIT PRICE ‘AMOUNT
+2 Polarized Wrap Around Sports Sunglasses 1899.00 41,798.00
+2 Police Men’s Round Sunglasses 3,098.00 6,198.00
+Subtotal 7,996.00
+st 180% 1439.28
+
+INVOICE TOTAL
+
+X 9,435.28

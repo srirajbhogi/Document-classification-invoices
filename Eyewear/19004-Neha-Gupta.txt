@@ -1,0 +1,23 @@
+INVOICE
+
+FROM BILL TO INVOICE TOTAL
+
+Lenskart.com Neha Gupta
+
+98, 27thMain Rd, 1st 23, Hibiscus Street, % 12,030.10
+
+‘Sector, HSR Layout, Bhopal, Madhya
+
+Bangalore - 560102 Pradesh, India
+
+DESCRIPTION ary AMOUNT
+
+‘Tommy Hilfiger UV Protected Square 2,098.00 2 4,198.00
+
+‘Sunglasses
+
+Lenskart Ar Wrap-Around Sunglasses: 1,999.00 3 5,997.00
+SUBTOTAL 10,195.00,
+est 18.0% 11936.10
+
+TOTAL 12,030.10

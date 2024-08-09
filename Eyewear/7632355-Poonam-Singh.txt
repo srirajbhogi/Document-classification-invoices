@@ -1,0 +1,15 @@
+INVOICE # 7692356 INVOICE DATE osoer2023
+
+Poe 7308,
+BILLTO ‘Vasan Eye Care
+Poonam Singh 44, 3rd Floor, JNC Road,
+56, Bluebell Boulevard, Chandigarh, ‘Koramangala Sth Block, Bangalore
+Haryana, India = 560095
+ary UNIT PRICE ‘AMOUNT
+2 Carrara Men's Piot Sunglasses 2,598.00 5,198.00
+3 Vincant Chase Full Rim Spectacia Frames 11,298.00 3897.00
+Subtotal 9,095.00
+
+st 180% 1637.10
+
+INVOICE TOTAL ® 10,732.10

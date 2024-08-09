@@ -1,0 +1,20 @@
+John Jacobs Eyewear INVOICE
+
+‘2nd Floor, Garuda Mall, Magrath Road, Ashok Nagar, Bangalore - 560025
+
+Bill To Invoice # 7323
+‘Aakash Mehta Invoice Date 03/08/2023
+28, Sunflower Street, Mumbai,
+Maharashtra, India Pos 249
+ary DESCRIPTION UNIT PRICE ‘AMOUNT
+
+3 | Lenskart Clip-On Sunglasses 1,999.00 9,997.00
+
+2 | Tommy Hitiger Wayfarer Sunglasses 2198.00 4,398.00
+
+Sublotal 10,395.00
+
+GST 18.0% 1871.10
+
+TOTAL € 12,266.10
+

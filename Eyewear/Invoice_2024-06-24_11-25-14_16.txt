@@ -1,0 +1,45 @@
+INVOICE
+
+Invoice From
+‘Specsworld Opticians
+
+45, 4th Main, Jayamahal Extension, Mumbai - 400005
+specsworldopticians@gmailcom
+
+Contact no: 9900292038
+
+Invoice details:
+Invoice no. 5e4
+Date sued: 2403-2020
+
+GSTIN:  29AADCS34S6GIZR
+Pan: RFRAG7060G
+State: Maharashtra
+
+Invoice To
+‘run Kapoor
+48, Olve Boulevard GsTIN: 2¢PMMoBI630q121
+Bangalore Pan: MRCIBS226F
+Contact no: 9812628685 Ema arurkapoor@gmall.com State: Kamataka
+ltem Name __HSN/SAC Qty Unit Price IGST Amount
+Lenskart Air Wrap-
+‘Around Sunglasses 9005 1516.00 18% 616.00
+Polarized Wrap
+‘Around Sports
+Sunglasses 9007 1 2261.00 18% 2261.00
+Emporio Armani
+Unisex Adult
+Sunglasses 008 3958.00 18% 2877.00
+Sub total 5754.00
+iest 18% 1035.72
+Grand Total 6789.72
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

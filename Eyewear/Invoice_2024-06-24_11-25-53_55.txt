@@ -1,0 +1,35 @@
+INVOICE tomate
+
+Date sued: 2a-11-2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Reena Das
+285, Rosewood Lane GSmIN: 24GSKOC7070KIZ0
+Hubs Pan: KOIOU2965
+Contacto: 9169613952 Email reenadas@gmail.com State: Kamatakea
+ltem Name HSN/SAC. Qty Unit Price IGST Amount
+TEAL Spectacle
+Frames for Men &
+Women 004 2 4699.00 1% 939800
+Puma Men's
+Wayfarer Sunglasses 9004 1 2810.00 1% 291000
+Persol Rectangular
+Sunglasses 9005 2634.00 18% 1268.00
+Sub total 13876.00
+iest 18% 2043.68,
+Grand Total 16019.68
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

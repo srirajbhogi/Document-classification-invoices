@@ -1,0 +1,37 @@
+INVOICE trate
+
+Date sued: 08-04-2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Poonam Singh
+56, Bluebell Boulevard GSmIN: — 2IMccMsc68N1z4
+Belgaum Pan: GMGVI4S@3W
+Contact no: 8404559714 Email poonamsingh@gmal.com State: Kamatakea
+ltem Name __HSN/SAC Qty Unit Price IGST Amount
+Nova BIaeaat
+Eyeelasses (Zero
+Power! 008 3222.00 12% 6666.00
+Polarized Wrap
+‘Around Sports
+Sunglasses 9005 1307800 18% 347800
+Fastrack UV
+Protected Aviator
+Sunglasses 008 2 1927.00 18% 3854.00
+Sub total 13998,00
+iest 18% 2519.64
+Grand Total 16517.64
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

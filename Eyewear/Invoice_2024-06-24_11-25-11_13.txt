@@ -1,0 +1,37 @@
+INVOICE roman,
+
+Date sued: 2403-2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Deepa Patol
+73, Pine Boulevard GSTIN: 24FNPOKS3365125,
+Mangalore Pan: GSGY7563X
+Contacto. 9240384648 Email: deepapatel@gmai.com State: Kemnataka
+ltem Name __ HSN/SAC Qty Unit Price IGST Amount
+Carrera UnECAGETE
+Rectangular
+Sunglasses 9007 21.00 18% 2222.00
+Fastrack UV
+Protected Avistor
+Sunglasses 004 2514.00 12% 102800
+IDEAL Spectacle
+Frames for Men &
+Women 9005 3 ans00 18% _14157.00
+Sub total 7407.00
+iest 18% 313326,
+Grand Total 2054026
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

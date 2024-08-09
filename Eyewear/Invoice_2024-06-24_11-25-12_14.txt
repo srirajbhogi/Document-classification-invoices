@@ -1,0 +1,36 @@
+INVOICE romain
+
+Date sued: 16.03.2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Rakesh Patel
+72, Olve Drive GSTIN:  24xE0ANG132x122
+Mangalore Pan: DDISBS196F
+Contact no: 9499098789 Email: rakeshpatel@gmailcom State: Kamatakea
+ltem Name __HSN/SAC Qty Unit Price IGST Amount
+Nova BIaeaat
+Eyeelasses (Zero
+Power) 9005 2___3813.00 18% 7698.00
+Ray-Ban Aviator
+Classic Sunglasses 9007 3 4078.00 18% 1223400
+Polarized Wrap
+‘Around Sports
+Sunglasses 9007 3160.00 18% 3480.00
+Sub total 23412.00
+iest 18% 4246
+Grand Total 27626.16
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

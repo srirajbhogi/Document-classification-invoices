@@ -1,0 +1,36 @@
+INVOICE romain,
+
+Date sued: 28-06-2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Vandana Singh
+53, Magnolia Lane GSTIN:  2t0FSRE97EN1z0
+Belgaum Pan: PBFZM314P
+Contact no: 9299829718 Ema vandanasingh@gmai.com State: Kamataka
+ltem Name HSN/SAC Qty Unit Price IGST Amount
+Faatrack UV
+Protected Avistor
+Sunglasses 005 2 3708.00 18% 7416.00
+Toh Jacobs Gold
+Rimmed Aviator
+Sunglasses 004 3___2830.00 18% 879000
+Fitovers Polarized
+Sunglasses 9007 3 2715.00 18% 8145.00
+Sub total 24351.00
+iest 18% 4382.8
+Grand Total 28734.18
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

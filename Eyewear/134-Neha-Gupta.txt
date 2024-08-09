@@ -1,0 +1,19 @@
+INVOICE
+
+FROM, BLT
+Vision Express Neha Gupta
+‘st Floor, Phoenix Marketcly, 23, Hibiscus Street, Bhopal,
+
+‘Whitefield Main Road, Bangalore - Madhya Pradesh, India
+‘560066
+
+INVOICE INVOICE DATE Po
+134 24/01/2023 0228
+ay DESCRIPTION Wu PRICE AuouNT
+2 Ray-Ban Round Metal Sunglasses 2,998.00 5,998.00
+3 Fastrack Women’s Oval Sunglasses 41,798.00 5,397.00
+Subtotal 11,395.00
+GST 18.0% 2,051.10
+Total 313,446.10
+ny tvaiee Her
+

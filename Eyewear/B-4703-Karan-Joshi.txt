@@ -1,0 +1,14 @@
+INVOICE # 4703 INVOICE DATE oworr2023
+
+Poe oes
+BILLTO ‘Ben Franklin Opticians
+Karan Joshi 438, 17 Main, ath T Block,
+34, Lolus Lane, Pune, Maharashtra, sJayanagar, Bangalore - 560041
+India
+ary UNIT PRICE ‘AMOUNT
+3 Carrara Unisex-Adult Rectangular Sunglasses 2398.00 7197.00
+4 Vincant Chase Blue Cut Computer Glasses 1999.00 3,996.00
+Subtotal 11,193.00
+st 180% 201474
+
+INVOICE TOTAL ® 13,207.74

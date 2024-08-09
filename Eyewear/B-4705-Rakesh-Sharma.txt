@@ -1,0 +1,14 @@
+INVOICE # 14705 INVOICE DATE oso7/2023
+
+Poe saa
+BILLTO ‘Ben Franklin Opticians
+Rakesh Sharma 438, 17 Main, ath T Block,
+67, Violet Avenue, Kolkata, West sJayanagar, Bangalore - 560041
+Bengal, India
+QTY DESCRIPTION UNIT PRICE ‘AMOUNT
+2 Tommy Hilger UV Protected Square Sunglasses 2,899.00 5,798.00
+2 Jofn Jacobs Gold-Rimmed Aviator Sunglasses 3,098.00 6,198.00
+Subtotal 11,986.00
+st 180% 2.15928
+
+INVOICE TOTAL ® 14,155.28

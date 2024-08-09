@@ -1,0 +1,37 @@
+INVOICE romani
+
+Date sued: 1601-2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Sura Kumar
+21, Marigold Crescent GSTIN: 24KAUV7213R420
+Mysore Pan: ZEEPHO54S
+Contact no: 9744219664 Ema surajkumar@gmai.com State: Kamataka
+ltem Name HSN/SAC. Qty Unit Price IGST Amount
+Polaraed Wrap
+‘Around Sports
+Sunglasses 008 1 4318.00 18% 431800
+Vincent Chase Blue
+Cut Computer
+Glasses 9007 2133.00 18% 3066.00
+‘Carrera Unisex Adult
+Rectangular
+Sunglasses 9004 1 3660.00 12% 3660.00
+Sub total 1044.00
+iest 18% 1987.92
+Grand Total 1303.92
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

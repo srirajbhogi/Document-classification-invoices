@@ -1,0 +1,17 @@
+INVOICE
+
+FROM, BLT
+Vision Express Vikas Jain
+‘st Floor, Phoenix Marketcly, 72, Daisy Square, Ahmedabad,
+Whitefield Main Road, Bangalore - Gujarat, India
+‘560066
+INVOICE INVOICE DATE Poe
+137 27/01/2023 0227
+ay DESCRIPTION Wu PRICE AuouNT
+3 __Lenskart Air Round Sunglasses 1,598.00 4,797.00
+3 Vincent Chase Full Rim Wayfarer Frames 1,898.00 5,697.00
+Subtotal 10,494.00
+GST 18.0% 1,888.92
+Total 3 12,382.92
+ny tvaiee Her
+

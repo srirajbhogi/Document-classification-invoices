@@ -1,0 +1,36 @@
+INVOICE brome,
+
+Date sued: 08-08-2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Tarun Malhotra
+78, Wilow Steet GSN: 24G66vUse6aK1Z1
+Bangalore Pan: SPEGXS259z
+Contact: 9604085527 Email: tarunmalhotra@gmai.com State: Kamataka
+ltem Name HSN/SAC Qty Unit Price IGST Amount
+Faatrack UV
+Protected Avistor
+Sunglasses 005 1 4786.00 18% 4786.00
+Tommy Hilger OV
+Protected Square
+Sunglasses 008 1215.00 18% 2215.00
+Fastrack Gradient
+Wayfarer Sunglasses 9007 3 2955.00 18% 8865.00
+Sub total 16466,00
+iest 1am 2962.88,
+Grand Total 19429.88
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

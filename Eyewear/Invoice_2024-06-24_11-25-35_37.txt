@@ -1,0 +1,35 @@
+INVOICE roman,
+
+Date sued: 20-08-2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Viehal Desai
+43, Pine Boulevard GSN: 24ekvrVvrosanize
+Mysore Pan: PZERP38690
+Contact no.: 9676278758 Email: vehaldesai@ gmail.com State: Kemnataka
+ltem Name __HSN/SAC Qty Unit Price IGST Amount
+Fitovers Polarized
+Sunglasses 008 2 1623.00 18% 3246.00
+Fastrack Gradient
+Wayfarer Sunglasses 9005 323.00 18% 2487.00
+John Jacobs Gold-
+Rimmed Aviator
+Sunglasses 9005 2 1223.00 1% 2446.00
+Sub total 2179.00
+iest 18% 147222,
+Grand Total 9651.22
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

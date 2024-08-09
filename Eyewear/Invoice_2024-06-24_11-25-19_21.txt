@@ -1,0 +1,36 @@
+INVOICE tran,
+
+Date sued: 0-01-2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Kavita Patel
+£28, Orchid Avenue GSmIN: 26)RMRI3909C121,
+Hubs Pan: FOMNASSG6T
+Contact no: 9615847200 Ema: kaviapatel@gmaicom State: Kamatakea
+ltem Name HSN/SAC Qty Unit Price IGST Amount
+Bobster Eyewear
+Fuel Photachromic
+Goggles 9007 3 2300.00 18% 6900.00
+Lenskart Air Wrap-
+‘Around Sunglasses 008 2277800 18% $556.00
+Oakley Men's
+Rectangular
+Sunglasses 9005 1 4136.00 18% 4136.00
+Sub total 16592.00
+iest 18% 298656
+Grand Total 19578.56
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

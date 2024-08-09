@@ -1,0 +1,36 @@
+INVOICE trans,
+
+Date sued: 04-12-2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Sunil Verma
+6, Tulip Boulevard GsTIN: 2¢DLEDU38176127
+Mysore Pan: PRLFMBo24G
+Contact no: 9134342649 Email suniverma@gmailcom State: Kamatake
+ltem Name __HSN/SAC Qty Unit Price IGST Amount
+Fastrack Gradient
+Wayfarer Sunglasses 9008 2 4461.00 18% 8922.00
+IDEAL Spectacle
+Frames for Men &
+Women 9004 1 3399.00 12% 3999.00
+“Tommy Hilfiger WV
+Protected Square
+Sunglasses 9007 2 3873.00 18% 7758.00
+Sub total 120679.00
+iest 1am 372222,
+Grand Total 24401.22
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

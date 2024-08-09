@@ -1,0 +1,17 @@
+INVOICE
+
+FROM, BLT
+Vision Express ‘Snehal Mehta
+‘st Floor, Phoenix Marketcty, 1, Tulip Road, Chandigarh,
+Whitefield Main Road, Bangalore - Haryana, India
+‘560066
+INVOICE IWVOICE DATE Poe
+138 28/01/2023 0228
+ay DESCRIPTION Wu PRICE AuouNT
+3 Tommy Hilfiger Sports Sunglasses 2,598.00 7,797.00
+2 John Jacobs Square Metal Sunglasses 3,899.00 7,798.00
+Subtotal 15,595.00
+GST 18.0% 2,807.10
+Total 18,402.10
+ny tvaiee Her
+

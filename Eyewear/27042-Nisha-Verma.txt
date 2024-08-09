@@ -1,0 +1,37 @@
+INVOICE
+
+FROM BILL TO
+‘Gangar Eyenation Nisha Verma,
+No.50,MG Road, Near 88, Marigold Boulevard,
+“Trinty Circle, Bangalore - Patna, Bar, India
+‘560001
+
+INVOICE TOTAL
+
+% 21,706.10
+
+DESCRIPTION
+‘Calvin Kein Square Sunglasses
+‘Gucci Oversizod Square Sunglasses
+
+UNIT PRICE
+3,199.00
+4399.00
+
+ary
+
+‘SUBTOTAL
+
+ast 18.0%
+
+TOTAL
+
+AMOUNT
+9597.00
+8,798.00
+
+18,395.00
+
+3ait.10
+
+21,708.10

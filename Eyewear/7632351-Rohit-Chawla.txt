@@ -1,0 +1,15 @@
+INVOICE # 7692351 INVOICE DATE ‘owoeran23
+Poe 7301
+BILLTO ‘Vasan Eye Care
+Rohit Chawla 44, 3rd Floor, JNC Road,
+42, Jasmine Avenue, Lucknow, Utar ‘Koramangala Sth Block, Bangalore
+Pradesh, India 560095,
+ary UNIT PRICE ‘AMOUNT
+2 Emporio Armani Unisex-Adult Sunglasses 3,599.00 7,198.00
+2 Cavin Klcin Square Sunglasses 2398.00 4798.00
+Subtotal 11,986.00
+st 180% 2.15928
+
+INVOICE TOTAL
+
+® 14,155.28

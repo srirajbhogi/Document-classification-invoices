@@ -1,0 +1,35 @@
+INVOICE masse
+
+Date sued: 02-02-2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Vikash Menta
+28, Lotus Drive GsTIN:  2awuXLss7260173
+Belgaum Pan: NMROV7059Z
+Contacto: 9794710814 Email vkashmehta@gmailcom State: Karnataka
+ltem Name __HSN/SAC Qty Unit Price IGST Amount
+Puma Men's
+Wayfarer Sunglasses 9006 2 1525.00 18% 3050.00
+Lenskart Air Wrap-
+‘Around Sunglasses 004 1 4363.00 12% 4963.00
+“Carrera UnisexcAdult
+Rectangular
+Sunglasses 9005, 2 1839.00 18% 367800
+Sub total 1191.00
+iest 18% 2086.38,
+Grand Total 1367.38
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

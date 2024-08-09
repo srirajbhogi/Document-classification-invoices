@@ -1,0 +1,37 @@
+INVOICE romani
+
+Date sued: 04-09-2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+‘Sneha Rao
+27, Maple Drive GSTIN: _2ascccPais4v125
+Mangalore Pan: WSRZMI7210
+Contact na: 9695462521 Email sneharao@gmall.com State: Kamataka
+ltem Name HSN/SAC Qty Unit Price IGST Amount
+Bobster Eyewear
+Fuel Photachromic
+Gogsles 005 1 2810.00 12% 2840.00
+Polarized Wrap
+‘Around Sports
+Sunglasses 004 1742.00 18% 742.00
+‘Vogue Eyewear
+Women’s Round
+Sunglasses 9005 2 2881.00 18% $762.00
+Sub total 9344.00
+iest 18% 168192
+Grand Total 1025.92
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

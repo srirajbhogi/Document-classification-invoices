@@ -1,0 +1,14 @@
+INVOICE # 4702 INVOICE DATE czoranza
+
+Poe ose
+BILLTO ‘Ben Franklin Opticians
+Nisha Verma 438, 17 Main, ath T Block,
+88, Marigold Boulevard, Patna, sJayanagar, Bangalore - 560041
+Bihar, nda
+ary DESt UNIT PRICE ‘AMOUNT
+2 Oakley Men's Rectangular Sunglasses 2,598.00 5,198.00
+3 Vogue Eyewear Women's Round Sunglasses 3,298.00 9,897.00
+Subtotal 15,095.00
+st 180% ari730
+
+INVOICE TOTAL ® 17,812.10

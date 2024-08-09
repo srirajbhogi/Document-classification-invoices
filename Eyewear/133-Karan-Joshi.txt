@@ -1,0 +1,19 @@
+INVOICE
+
+FROM, BLT
+Vision Express Karan Joshi
+‘st Floor, Phoenix Marketcily, 34, Lotus Lane, Pune,
+
+‘Whitefield Main Road, Bangalore - Maharashtra, India,
+‘560066
+
+INVOICE IVOCE DATE Poe
+133 23/01/2023 0223
+ay DESCRIPTION Wu PRICE AuouNT
+2 Calvin Klein Aviator Sunglasses 2,798.00 5,598.00
+2 Emporio Armani Round Sunglasses 3,198.00 6,398.00
+Subtotal 11,996.00
+GST 18.0% 2,199.28
+Total 314,185.28
+ny tvaiee Her
+

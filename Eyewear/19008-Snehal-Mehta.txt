@@ -1,0 +1,21 @@
+INVOICE
+
+FROM BILL TO INVOICE TOTAL
+
+Lenskart.com Snehal Mehta
+
+98, 27H Main Rd, 1st 15, Tulip Road, % 8,254.10
+
+‘Sector, HSR Layout, __Chanlgarh, Haryana
+
+Bangalore - 560102 India
+
+DESRIPTION ary AMOUNT
+
+Ftovers Polarized Sunglasses 2,280.00 2 4,598.00
+
+Nova Bluecut Eyeglasses (Zero Power) 1799.00 3 2397.00
+SUBTOTAL 6,995.00
+est 180% 11250.10
+
+TOTAL 38,254.10

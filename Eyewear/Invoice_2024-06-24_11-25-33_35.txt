@@ -1,0 +1,48 @@
+Invoice details:
+Invoice no. a2
+17.03.2020
+
+Date sued:
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Vikash Menta
+28, Lotus Drive GSTIN:  2eRvFLPSaanxiZ2
+Belgaum Pan: NUOBES278R
+Contact: 9600580205 Email: vkashmehta@gmai.com State: Kamatake
+
+ltem Name HSN/SAC. Qty Unit Price IGST Amount
+
+Polaraed Wrap
+
+‘Around Sports
+
+Sunglasses 008 2 4831.00 12% 8862.00
+
+Police Men's Round
+
+Sunglasses 9005 1 1618.00 18% 161800
+“Tommy Hilfiger WV
+Protected Square
+
+Sunglasses 008 3 3456.00 18% 1036800
+
+Sub total -20848.00
+
+iest 18% 3752.64
+
+Grand Total 2600.64
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

@@ -1,0 +1,48 @@
+Invoice details:
+Invoice no. 564
+21-12-2020
+
+Date sued:
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Priya Vorma
+24, Cedar Street GSN: 240BHLA71050121
+Mysore Pan: NZUDZ14971
+Contact no.: 9426750827 Email: priyaverma@gma.com State: Kernataka
+
+ltem Name HSN/SAC Qty Unit Price IGST Amount
+Tommy Aifiger OV
+
+Protected Square
+
+Sunglasses 9005 2 si1.00 18% 1922.00
+Tarrera Unisex Adult
+
+Rectangular
+
+Sunglasses 9007 1 4313.00 1% 4313.00
+
+Vincent Chase Blue
+Cut Computer
+
+Glasses 9004 2273300 18% $466.00
+Sub total 1601.00
+
+iest 18% 2088.18
+
+Grand Total 13689.18
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

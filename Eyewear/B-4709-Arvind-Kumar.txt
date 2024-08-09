@@ -1,0 +1,17 @@
+INVOICE # 4709 INVOICE DATE oso7/2023
+
+Poe ooaa9
+BILLTO ‘Ben Franklin Opticians
+‘Arvind Kumar 438, 17 Main, ath T Block,
+98, Lavender Path, Ranchi, sJayanagar, Bangalore - 560041
+
+barerand, India
+
+ary UNIT PRICE ‘AMOUNT
+2 Fitovers Polarized Sunglasses 2,598.00 5,198.00
+2 Fastrack Gradient Wayfarer Sunglasses 2,298.00 4598.00
+Subtotal 9,796.00
+
+st 180% 1,763.28
+
+INVOICE TOTAL ® 11,559.28

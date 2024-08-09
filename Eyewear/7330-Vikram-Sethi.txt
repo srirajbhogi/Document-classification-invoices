@@ -1,0 +1,20 @@
+John Jacobs Eyewear INVOICE
+
+‘2nd Floor, Garuda Mall, Magrath Road, Ashok Nagar, Bangalore - 560025
+
+Bill To Invoice # 7330
+‘Vikram Sethi Invoice Date 101082023
+223, Hibiscus Boulevard, Chennai,
+‘Tamil Nadu, India Pos 250
+ary DESCRIPTION UNIT PRICE ‘AMOUNT
+
+2 | Emporio Armani Square Metal Sunglasses 2,599.00 5,198.00
+
+2 | Calvin Klein Wayfarer Sunglasses 2,899.00 5,798.00
+
+Sublotal 10,996.00
+
+GST 18.0% 1.97928
+
+TOTAL € 12,975.28
+

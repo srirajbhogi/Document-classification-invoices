@@ -1,0 +1,36 @@
+INVOICE romani,
+
+Date sued: 20-01-2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Naveen Singh
+41, Palm Street GSTIN: 24RYKSAQ7SIL1z9
+Bangalore Pan: NLRCWS753W
+Contact na: 9256215024 Email: naveensingh@gmailcom State: Kamataka
+ltem Name __HSN/SAC Qty Unit Price IGST Amount
+Persol Rectangular
+Sunglasses 9007 2 1276.00 1% 2552.00
+Tommy Hilfiger UW
+Protected Square
+Sunglasses 9007 2 2896.00 18% 4992.00
+IDEAL Spectacle
+Frames for Men &
+Women 9007 3228200 12% 6846.00
+Sub total 14390.00
+iest 18% 2590.20
+Grand Total 16980.20
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

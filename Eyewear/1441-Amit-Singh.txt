@@ -1,0 +1,19 @@
+INVOICE
+
+‘Specsmakers Opticians ‘Amit Singh
+
+1075, 12th Main, HAL 2nd Stage,
+
+Indiranagar, Bangalore - 560008 Rajasthan, India
+
+'55, Carnation Road, Jaipur,
+
+INVOICE INVOICE DATE Po
+1441 o2j02/2023 94821
+ay DESCRIPTION Wu PRICE AuouNT
+2 Vogue Women’s Oversized Sunglasses 2,898.00 5,798.00
+2 Carrera Polarized Rectangular Sunglasses 3,098.00 6,198.00
+Subtotal 11,996.00
+GST 18.0% 2,199.28
+Total 314,185.28
+

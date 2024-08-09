@@ -1,0 +1,46 @@
+Invoice details:
+Invoice no. 720
+29-05-2020
+
+Date sued:
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Kavita Patel
+£28, Orchid Avenue GSTIN: 24MSMKPaS6IK1z3,
+Hubs Pan: LEXCY9I78F
+Contact no: 9209689792 Ema: kaviapatel@gmal.com State: Karnataka
+
+ltem Name HSN/SAC. Qty Unit Price IGST Amount
+Nova BIaeaat
+
+Eyeelasses (Zero
+
+Power) 005 2923.00 12% 1946.00
+Emporio Armani
+
+Unisex-Adult
+
+Sunglasses 9007 2 2048.00 18% 4996.00
+Bobster Eyewear
+Fuel Photachromic
+
+Goggles 9004 1__2249.00 18% 2249.00
+
+Sub total 991.00
+iest 18% 161838,
+Grand Total 10609.38
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

@@ -1,0 +1,39 @@
+INVOICE
+
+FROM BILL TO
+Lenskart.com Priya Nair
+
+98, 27th Main Rd, 1st 41, Orchid Cirle, Kochi
+‘Sector, HSR Layout, Kerala, India
+
+Bangalore - 560102
+
+INVOICE TOTAL
+
+% 9,435.28
+
+DESCRIPTION
+Police Men's Round Sunglasses
+John Jacobs Gold-Rimmed Aviator Sunglasses
+
+UNIT PRICE
+1,890.00
+2,099.00
+
+ary
+
+‘SUBTOTAL
+
+ast 18.0%
+
+TOTAL
+
+AMOUNT
+3,798.00
+4,198.00
+
+7,996.00
+
+1439.28
+
+79,435.28

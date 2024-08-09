@@ -1,0 +1,19 @@
+INVOICE
+
+‘Specsmakers Opticians Priya Nair
+
+1075, 12th Main, HAL 2nd Stage,
+
+Indicanagar, Bangalore - 560008 India
+
+4A, Orchid Cirle, Kochi, Kerala,
+
+INVOICE IVOCE DATE Pow
+1446 96/02/2023 94826
+ay DESCRIPTION Wu PRICE AuouNT
+3 Nova Anti-Glare Computer Glasses 2,598.00 7,797.00
+3 Fitovers Polarized Cat Eye Sunglasses 2,298.00 6,897.00
+Subtotal 14,894.00
+GST 18.0% 2,644.92
+Total 17,338.92
+

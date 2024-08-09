@@ -1,0 +1,37 @@
+INVOICE roman
+
+Date sued: 06-03-2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Neeraj Sethi
+27, Cadar Crescent GSmIN: 2aTTeMAg660125,
+Hubs Pan: KAACWOITIZ
+Contact no.: 9608452760 Email: neerajsethi@gmailcom State: Kamatake
+ltem Name HSN/SAC. Qty Unit Price IGST Amount
+Oakley Mens
+Rectangular
+Sunglasses 9007 2 3302.00 12% 7204.00
+Tommy Hilger OV
+Protected Square
+Sunglasses 9005 3 4066.00 18% 1219800
+Toh Jacobs Gold-
+Rimmed Aviator
+Sunglasses 9005, 1 1010.00 18% 1010.00
+Sub total 21012.00
+iest 18% A726
+Grand Total 20794.16
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

@@ -1,0 +1,19 @@
+INVOICE
+
+‘Specsmakers Opticians Anvind Kumar
+
+1075, 12th Main, HAL 2nd Stage,
+
+Indiranagar, Bangalore - 560008 Jharkhand, India
+
+198, Lavender Path, Ranchi,
+
+INVOICE IWVOCE DATE Po
+1449 ogj02/2023 94829
+ay DESCRIPTION Wu PRICE AuouNT
+2 Puma Sport Wrap Sunglasses 2,298.00 4,598.00
+2 Emporio Armani Square Metal Sunglasses 3,798.00 7,598.00
+Subtotal 12,196.00
+GST 18.0% 2,195.28
+Total 14,391.28
+

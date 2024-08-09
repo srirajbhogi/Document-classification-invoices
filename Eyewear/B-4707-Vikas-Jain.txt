@@ -1,0 +1,15 @@
+INVOICE # 4707 INVOICE DATE ovovran2a
+Poe oo4a7
+BILLTO ‘Ben Franklin Opticians
+Vikas Jain 438, 17 Main, ath T Block,
+72, Daisy Square, Ahmedabad, sJayanagar, Bangalore - 560041
+Gujarat, Inia
+QTY DESCRIPTION UNIT PRICE ‘AMOUNT
+4 IDEAL Spectacte Frames for Men & Women 599.00 2,396.00
+2 Nova Bluecut Eyeglasses (Zero Power) 2,098.00 4,198.00
+Subtotal 6.59400
+st 180% 4,186.92
+
+INVOICE TOTAL
+
+7,780.92

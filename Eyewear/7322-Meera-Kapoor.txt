@@ -1,0 +1,15 @@
+John Jacobs Eyewear INVOICE
+
+‘2nd Floor, Garuda Mall, Magrath Road, Ashok Nagar, Bangalore - 560025
+
+Bill To Invoice # 322
+Meera Kapoor Invoice Date 020082023
+19, Rosewood Lane, Jaipur,
+Rejasthan, India Pos 22
+ary DESCRIPTION UNIT PRICE ‘AMOUNT
+2 | Carrera Polarized Rectangular Sunglasses 3,099.00 6,198.00
+3 | Vincent Chase Rimless Spectacle Frames 4,199.00 3,597.00
+Sublotal 9,795.00
+GST 18.0% 1,763.10
+TOTAL 11,558.10
+

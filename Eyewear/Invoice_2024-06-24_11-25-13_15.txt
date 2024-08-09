@@ -1,0 +1,37 @@
+INVOICE tomate,
+
+Date sued: 21-08-2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Ankita Verma
+126, Cedar Street GSmIN:  2avsouP6727N1Z7
+Mysore Pan: MAMCBGQ21N
+Contacto: 9784643290 Email anklaverma@gmaicom State: Karnataka
+ltem Name HSN/SAC. Qty Unit Price IGST Amount
+TEAL Spectacle
+Frames for Men &
+Women 9005 2 1332.00 18% 2664.00
+Emporio Armani
+Unisex-Adult
+Sunglasses 9007 a _2135.00 18% 2135.00
+Polarized Wrap
+‘Around Sports
+Sunglasses 9005 2 4815.00 18% 9630.00
+Sub total 14429,00
+iest 18% 289722,
+Grand Total 17026.22
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

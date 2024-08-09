@@ -1,0 +1,40 @@
+Invoice details:
+Invoice no. sez
+16.03.2020
+
+Date sued:
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Preeti Malhotra
+49, Pine Boulevard GSN: 24GMyUO7S79w1z2
+Hubs Pan: ROWLYS#96T
+Contact no 8476518901 Email: proetimalhotra@gmaiLcom State: Karnataka
+ltem Name __HSN/SAC Qty Unit Price IGST Amount
+Lenskart Air Wrap-
+‘Around Sunglasses 9005 1213.00 18% 849.00
+Puma Men's
+Wayfarer Sunglasses 9008 2 2728.0 18% 5456.00
+
+Fitovers Polarized
+
+Sunglasses 9005 1187400 18% 1974.00
+Sub total 2179.00
+
+iest 18% 147222,
+
+Grand Total 9651.22
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

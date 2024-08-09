@@ -1,0 +1,52 @@
+INVOICE
+
+Invoice From
+‘Specsworld Opticians
+
+45, 4th Main, Jayamahal Extension, Mumbai - 400005
+specsworldopticians@gmailcom
+
+Contact no: 9900292038
+
+Invoice To
+‘ati Gupta
+81, Cedar Path
+
+Mangalore
+Contact no: 966145231 Ema arigupta@gmai.com
+
+Invoice details:
+Invoice no. 28s
+Date sued: 18.12.2000
+
+GSTIN:  29AADCS34S6GIZR
+Pan: RFRAG7060G
+State: Maharashtra
+
+GSmIN:  2eavizo10820128
+Pan: JEGQV7330R
+State: Karnataka
+
+ltem Name __HSN/SAC Qty Unit Price IGST Amount
+Fastrack Gradient
+Wayfarer Sunglasses 9007 4118.00 18% 1235400
+Emporio Armani
+Unisex-Adult
+Sunglasses 9005 4121.00 12% 1236300
+Oakley Men's
+Rectangular
+Sunglasses 9005, 2135.00, 18% 427000
+Sub total .28987.00
+iest 18% 5217.66,
+Grand Total 3420466
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

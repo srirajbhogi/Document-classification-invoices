@@ -1,0 +1,15 @@
+INVOICE # 7632354 INVOICE DATE ‘oaoer2023
+Poe a0
+BILLTO ‘Vasan Eye Care
+‘Suman Mishra 44, 3rd Floor, JNC Road,
+65, Poppy Path, Ranchi, Jharkhand, ‘Koramangala Sth Block, Bangalore
+India = 560095
+ary UNIT PRICE ‘AMOUNT
+3 Fastrack Aviator Metal Frame Sunglasses 1599.00 4797.00
+2 Vogue Women's Cat Eye Sunglasses 3,799.00 7,598.00
+Subtotal 12,395.00
+st 180% 2231.10
+
+INVOICE TOTAL
+
+® 14,626.10

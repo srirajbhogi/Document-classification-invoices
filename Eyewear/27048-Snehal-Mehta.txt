@@ -1,0 +1,20 @@
+INVOICE
+
+FROM BILL TO
+‘Gangar Eyenation SSnehal Mehia
+No.50,MG Road, Near 15, Tulip Road,
+“rity Circle, Bangalore - Chandigarh, Haryana,
+
+INVOICE TOTAL
+
+% 8,608.10
+
+‘560001 India
+DESCRIPTION ary AMOUNT
+Police Aviator Sunglasses 4,098.00 1 4,099.00
+IDEAL Blue Cut Reading Glasses 1799.00 4 3,196.00
+SUBTOTAL 7,295.00,
+
+est 18.0% 1313.10
+
+TOTAL 8,608.10

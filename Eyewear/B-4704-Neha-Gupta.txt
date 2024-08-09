@@ -1,0 +1,14 @@
+INVOICE # 4704 INVOICE DATE oao7r2023
+
+Poe saa
+BILLTO ‘Ben Franklin Opticians
+Neha Gupta 438, 17 Main, ath T Block,
+23, Hibiscus Steet, Bhopal, Madhya sJayanagar, Bangalore - 560041
+Pradesh, India
+ary UNIT PRICE ‘AMOUNT
+3 —_Lenskart Air Wrap-Around Sunglasses 1,998.00 5,997.00
+3 Vincant Chase Blue Cut Computer Glasses 1098.00 3297.00
+Subtotal 9.29400
+st 180% 17282
+
+INVOICE TOTAL ® 10,966.92

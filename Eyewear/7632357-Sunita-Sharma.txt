@@ -1,0 +1,15 @@
+INVOICE # 17692357 INVOICE DATE o7/oer2023
+Poe 07
+BILLTO ‘Vasan Eye Care
+‘Sunita Sharma 44, 3rd Floor, JNC Road,
+31, Marigold rive, Bangalore, ‘Koramangala Sth Block, Bangalore
+Kamataka, india = 560095
+ary UNIT PRICE ‘AMOUNT
+2 Tommy Hilger Aviator Sunglasses 2,798.00 5,598.00
+2 John Jacobs Clubmaster Sunglasses 2398.00 4798.00
+Subtotal 10,396.00
+st 180% 1971.28
+
+INVOICE TOTAL
+
+® 12,267.28

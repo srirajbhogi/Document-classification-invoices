@@ -1,0 +1,36 @@
+INVOICE toate
+
+Date sued: 17.03.2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Ani Jain
+7s, dasmine Path GsTIN: 2aDDvKM2340123
+Belgaum Pan: XSUMVS1470
+Contact no: 9873617400 Email: anijain@gmaicom State: Kamatake
+ltem Name HSN/SAC Qty Unit Price IGST Amount
+Enporio Armant
+Unisex-Adult
+Sunglasses 008 3 2287.00 18% 6861.00
+Fastrack Gradient
+Wayfarer Sunglasses 9006 2 3613.00 18% 729800
+Polarized Wrap
+‘Around Sports
+Sunglasses 9005, 1 3098.00 18% 3088.00
+Sub total xn207.00
+iest 18% 209726,
+Grand Total -20304.26
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

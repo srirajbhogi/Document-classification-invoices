@@ -1,0 +1,37 @@
+INVOICE roman
+
+Date sued: 01-03-2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+Kunal Sharma
+59, Cedar Path GSTIN: 24RHAMGESAIL1Z9
+Belgaum Pan: EMSTV7144S.
+Contact no: 9454750448 Ema kunalsharma@gmail.com State: Kamataka
+ltem Name HSN/SAC Qty Unit Price IGST Amount
+Enporio Armant
+Unisex-Adult
+Sunglasses 008 2277400 12% $548.00
+Vincent Chase Blue
+Cut Computer
+Glasses 008 1 3341.00 12% 3942.00
+‘Carrera Unisex Adult
+Rectangular
+Sunglasses 008 1151400 18% 1514.00
+Sub total 111003,00
+iest 18% 198054
+Grand Total 12983.54
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

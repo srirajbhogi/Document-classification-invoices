@@ -1,0 +1,15 @@
+INVOICE # 4701 INVOICE DATE oworranza
+Poe naa
+BILLTO ‘Ben Franklin Opticians
+‘Amit Singh 438, 17 Main, ath T Block,
+55, Camation Road, Jaipur sJayanagar, Bangalore - 560041
+Rjasthan India
+QTY DESCRIPTION UNIT PRICE ‘AMOUNT
+2 Ray-Ban Aviator Classic Sunglasses 3,599.00 7,198.00
+3 Fastrack UV Protected Aviator Sunglasses: 11,298.00 3897.00
+Subtotal 11,085.00
+st 180% 4,997.10
+
+INVOICE TOTAL
+
+® 13,092.10

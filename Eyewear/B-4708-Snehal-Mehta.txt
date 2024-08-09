@@ -1,0 +1,15 @@
+INVOICE # 4708 INVOICE DATE oso7r2023
+Poe ooaas
+BILLTO ‘Ben Franklin Opticians
+SSnehal Mehta 438, 17 Main, ath T Block,
+15, Tlip Road, Chandigarh, sJayanagar, Bangalore - 560041
+Haryana, India
+QTY DESCRIPTION UNIT PRICE ‘AMOUNT
+2 Fitovers Polarized Sunglasses 2,598.00 5,198.00
+2 Bobster Eyewear Fuel Photochromic Goggles 2,098.00 4,198.00
+Subtotal 9,396.00
+st 180% 1691.28
+
+INVOICE TOTAL
+
+X 11,087.28

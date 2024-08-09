@@ -1,0 +1,57 @@
+INVOICE
+
+Invoice From
+‘Specsworld Opticians
+
+45, 4th Main, Jayamahal Extension, Mumbai - 400005
+specsworldopticians@gmailcom
+
+Contact no: 9900292038
+
+Invoice To
+Tarun Malhotra
+78, Wilow Steet
+Bangalore
+
+Contacto: 9845078772 Email: tarunmalhotra@gmai.com
+
+Invoice details:
+Invoice no. 468
+Date sued: 1-11-2020
+
+GSTIN:  29AADCS34S6GIZR
+Pan: RFRAG7060G
+State: Maharashtra
+
+GSmIN:  24PecLOZ77IMAZ6
+Pan: SHRPY2987x
+State: Kamataka
+
+ltem Name __HSN/SAC Qty Unit Price IGST Amount
+Persol Rectangular
+
+Sunglasses 008 933.00 18% 2799.00
+Bobster Eyewear
+Fuel Photachromic
+
+Goggles 9005 3625.00, 1% 3625.00
+Police Men's Round
+
+Sunglasses 9005 3267.00, 18% 3267.00
+
+Sub total 9691.00
+
+iest 18% 1744338
+
+Grand Total 11435.38
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

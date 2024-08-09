@@ -1,0 +1,35 @@
+INVOICE romani
+
+Date sued: 07-12-2020
+Invoice From
+‘Specsworld Opticians
+45, 4th Main, Jayamahal Extension, Mumbai - 400005 GSTIN:  29AADCS34S6GIZR
+specsworldopticians@gmailcom Pan: RFRAG7060G
+Contact no: 9900292038 State: Maharashtra
+Invoice To
+itu Sharma
+88, Cedar Grescont GSTIN:  24DAQ8R3923¢121
+Mangalore Pan: MOGHVS269K
+Contact no: 9869764281 Ema rlusharma@gmaicom State: Kamataka
+ltem Name __HSN/SAC Qty Unit Price IGST Amount
+Nova BIaeaat
+Eyeelasses (Zero
+Power) 005 2 3822.00 12% 7644.00
+Persol Rectangular
+Sunglasses 005 1504.00 18% 604.00
+Lenskart Air Wrap
+‘Around Sunglasses 9005, 2 3762.00 18% 7524.00
+Sub total 1872.00
+iest 18% 283896,
+Grand Total 18610.96
+
+Terms & Conditions
+
+1. Payienttems are validity (20) days fom the date of is invoice, subect to a5 of 2%
+tcount pad win ten (10) days ofthe dato tis invoice.
+
+2. 80 das limited warranty unless stated othawse inthis ivace
+
+5. Balance due within 15 ays of Invoice date. Thare shal be 10% noes per Month terete.
+
+4. Acopy of hs ivooe required, ctherwse the waranty process sated herein wil be delayed

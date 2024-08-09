@@ -1,0 +1,15 @@
+INVOICE # 7692358 INVOICE DATE ‘osoer2023
+
+Poe 7308
+BILLTO ‘Vasan Eye Care
+Manish Joshi 44, 3rd Floor, JNC Road,
+47, Lily Lane, Jaipur, Rajasthan, ‘Koramangala Sth Block, Bangalore
+India = 560095
+ary UNIT PRICE ‘AMOUNT
+2 Tommy Hilger Aviator Sunglasses 2,899.00 5,798.00
+3 Polarized Sports Sunglasses for Men & Women 1398.00 4197.00
+Subtotal 9,995.00
+
+st 180% 1,799.10
+
+INVOICE TOTAL ® 11,794.10

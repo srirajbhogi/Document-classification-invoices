@@ -1,0 +1,21 @@
+INVOICE
+
+FROM BILL TO
+‘Gangar Eyenation ‘jal Desai
+
+No.50,MG Road, Near 7, Magnolia Driv, Surat,
+“rity Circle, Bangalore - Gujarat, India
+
+INVOICE TOTAL
+
+% 22,648.92
+
+‘560001
+DESCRIPTION UNIT PRICE ary AMOUNT
+Bobster Phoenix OTG Goggles 3,599.00 3 10,797.00
+Frtovers Polarized Wrap-Around Sunglasses 2,798.00 3 8397.00
+SUBTOTAL 19,194.00,
+
+est 18.0% 3.45492
+
+TOTAL 22,648.92
