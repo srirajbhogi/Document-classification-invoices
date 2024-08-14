@@ -1,1 +1,1 @@
-Document Classifcation with Invoices 
+Document Classification with Invoices 
